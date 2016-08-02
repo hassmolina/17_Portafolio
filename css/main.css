@@ -1,0 +1,73 @@
+/*HEADER*/
+.yellow{
+  background-color: #e0cb09;
+  height: 645px;
+  ;
+}
+.white{
+  color: white;
+  text-decoration: none;
+}
+h1{
+  font-family:fantasy;
+  position: absolute;
+  top: 45%;
+  left: 44.5%;
+}
+h2{
+  font-family:arial;
+  position: absolute;
+  top: 50%;
+  left: 43%;
+}
+nav{
+  position: relative;
+  left: 70%;
+}
+button{
+  position: relative;
+  left:15%;
+  background-color: #e29c34;
+}
+/*SECTION*/
+.seccion{
+  background-color: #b3b5b0;
+}
+.contenedor{
+  background-color: white;
+  width: 60%;
+  height: 400px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+img{
+  width: 300px;
+  height: 300px;
+  position: relative;
+  left: 13%;
+  top: 20px;
+  padding-bottom: 10px;
+}
+.margenizq{
+  margin-left: 250px;
+}
+.margender{
+  margin-right: 300px;
+}
+.alinearder{
+  position: relative;
+  right:35%;
+  bottom: 130px;
+}
+.alinearizq{
+  position: relative;
+  bottom: 130px;
+}
+/*FOOTER*/
+.gray{
+  background-color: #2d2e30;
+  height: 100px;
+}
+.foot{
+  margin: 40px;
+}
